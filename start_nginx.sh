@@ -1,1 +1,0 @@
-nginx -g 'deamon off;' &
